@@ -23,6 +23,7 @@ body {
 
 nav {
   font-size: 18px;
+  text-align: center;
 }
 
 article {
@@ -30,7 +31,7 @@ article {
 }
 
 .post-header {
-  margin-bottom: 4opx;
+  margin-bottom: 40px;
 }
 
 aside {
